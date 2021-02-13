@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/FirstLab.dir/skeleton.cpp.o  -o FirstLab -rdynamic -Wl,-Bstatic -lSDLmain -Wl,-Bdynamic -lSDL -lpthread 

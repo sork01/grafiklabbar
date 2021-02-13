@@ -1,0 +1,3 @@
+/home/sork/Sharedws/files/Skola/grafik/grafik_labb1/original-code/CMakeFiles/rebuild_cache.dir
+/home/sork/Sharedws/files/Skola/grafik/grafik_labb1/original-code/CMakeFiles/edit_cache.dir
+/home/sork/Sharedws/files/Skola/grafik/grafik_labb1/original-code/CMakeFiles/FirstLab.dir

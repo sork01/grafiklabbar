@@ -1,0 +1,5 @@
+To fix the issue with vertices being behind the camera we added a form of ''fake'' clipping
+by looking at the camera space z-coordinates of triangle vertices and skipping the entire
+triangle as soon as any vertex is found located at z < 1. This is not a good solution since it
+causes triangles to ''pop out of existence'' when one or more of its vertices ends up
+too close to the camera, but we believe it is better than nothing.

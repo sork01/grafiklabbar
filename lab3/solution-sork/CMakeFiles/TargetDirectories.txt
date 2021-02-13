@@ -1,0 +1,3 @@
+/home/sork/grafik/CgLab3/CMakeFiles/rebuild_cache.dir
+/home/sork/grafik/CgLab3/CMakeFiles/edit_cache.dir
+/home/sork/grafik/CgLab3/CMakeFiles/ThirdLab.dir

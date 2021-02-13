@@ -1,0 +1,4 @@
+We implemented the simplest possible form of backface culling by skipping any triangles
+where the angle between the surface normal of the triangle and a vector from the triangle
+to the camera position exceeds 90 degrees. Since we don't take the camera heading and FOV
+into account we are not able to cull triangles that are behind the camera.

@@ -1,0 +1,3 @@
+/home/lur/Desktop/grafik_labb2/solution/CMakeFiles/rebuild_cache.dir
+/home/lur/Desktop/grafik_labb2/solution/CMakeFiles/edit_cache.dir
+/home/lur/Desktop/grafik_labb2/solution/CMakeFiles/SecondLab.dir

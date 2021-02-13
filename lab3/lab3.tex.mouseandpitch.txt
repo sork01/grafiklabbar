@@ -1,0 +1,8 @@
+We added support for camera pitch by extending the camera code from lab 2 with the standard
+matrix for rotation about the x-axis which is then multiplied with the matrix used for the
+y-axis. We do not allow the camera heading to be affected by the pitch.
+
+We added support for controlling the camera pitch and yaw using the mouse, using the suggested
+SDL_GetRelativeMouseState. This was fairly straightforward except for an issue where this
+function returned very large readings immediately at the start of the program. We fixed this
+by ignoring the mouse during the first 500 ticks (by SDL_GetTicks) of runtime.
